@@ -76,10 +76,8 @@ Analyzed the Sales data of quick commerce BlinkIt
     
 
 **Quick Priority Map:**
-\md1	A
-2	B
-3	C
-![image](https://github.com/user-attachments/assets/88be94d7-5944-481a-b64c-ae90e64a38da)
+
+![image](https://github.com/user-attachments/assets/21c165d9-2a57-40c0-aed4-315c81bfa171)
 
     
     
