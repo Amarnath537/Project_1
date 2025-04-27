@@ -2,7 +2,8 @@
 Sales Analysis Dashboard
 
 Analyzed the Sales data of quick commerce BlinkIt 
-![image](https://github.com/user-attachments/assets/8cacc74c-5693-4de9-a059-0a0937213fb6)
+![image](https://github.com/user-attachments/assets/5ce8d988-1c06-4ae7-b012-d2803bbe3a0e)
+
 
 
 
@@ -77,7 +78,8 @@ Analyzed the Sales data of quick commerce BlinkIt
 
 **Quick Priority Map:**
 
-![image](https://github.com/user-attachments/assets/21c165d9-2a57-40c0-aed4-315c81bfa171)
+![image](https://github.com/user-attachments/assets/979ec2f2-be6f-4763-ad68-5772c4a475b1)
+
 
     
     
