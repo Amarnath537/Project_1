@@ -9,7 +9,7 @@ Analyzed the Sales data of quick commerce BlinkIt
 
 **Sales Breakdown:**
 * Item types:
-  - Highest sales are from Fruits and vegetabels(around $0.3M).
+  - Highest sales are from Fruits and vegetabels, and Snacks Food(around $0.3M).
   - Followed by Household and Frozen Foods.
 
 * Outlet Type:
