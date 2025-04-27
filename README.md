@@ -1,5 +1,5 @@
 # Dashboard
-Sales Analysis Dashboard
+****Sales Performance and Strategic growth Insights for Blinkit's Quick Commerce Operations****
 
 Analyzed the Sales data of quick commerce BlinkIt 
 ![image](https://github.com/user-attachments/assets/5ce8d988-1c06-4ae7-b012-d2803bbe3a0e)
