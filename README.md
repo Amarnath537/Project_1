@@ -1,4 +1,4 @@
-# Dash
+# Dashboard
 Sales Analysis Dashboard
 
 Analyzed the Sales data of quick commerce BlinkIt 
