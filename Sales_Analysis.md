@@ -2,7 +2,7 @@
 ****Sales Performance and Strategic growth Insights for Blinkit's Quick Commerce Operations****
 
 
-![image](https://github.com/user-attachments/assets/5ce8d988-1c06-4ae7-b012-d2803bbe3a0e)
+![image](https://github.com/user-attachments/assets/29c322ea-36df-411e-9020-4d4a350f00bf)
 
 
 
