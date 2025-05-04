@@ -61,7 +61,7 @@
    - Sales from Tier 1 and Tier 2 cities are strong and stable.
    - BlinkIt can:
      * Launch targeted promotions like free delivery weekends.
-     * Partner wuth local suppliers to widen product range.
+     * Partner with local suppliers to widen product range.
      * Open micro-fulfillment centers for quicker deliveries.
     
 5. Expand Medium Outlet Sizes
